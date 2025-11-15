@@ -1,0 +1,39 @@
+/* SUMMARY
+1. GLOBAL
+2. LAYOUT
+3. SECTION
+4. CARD
+*/
+
+/*** 1. GLOBAL ***/
+
+/* Reset / Normalize
+============================= */
+
+/* Smooth scrolling on html element */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Color
+============================= */
+
+body {
+  color: #161616;
+}
+
+a {
+  color: #161616;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category {
+  color: #D73953;
+}
+
+.section-tagline {
+  color: #D73953;
+}
